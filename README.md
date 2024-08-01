@@ -1,6 +1,3 @@
-Sure, here's a comprehensive README summary for your GitHub project:
-
----
 
 # COVID-19 Data Analysis Project
 
