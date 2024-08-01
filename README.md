@@ -7,7 +7,7 @@ This project involves a comprehensive analysis of COVID-19 data using SQL. The d
 
 ## Data Source
 
-The data for this project was obtained from [Our World in Data](https://ourworldindata.org/covid-deaths). It includes two main datasets:
+The data for this project was obtained from [Our World in Data](https://ourworldindata.org/covid-deaths) which was splited into two main datasets for easy analysis:
 - **CovidDeaths**: Contains data on COVID-19 global cases of infected persons and total deaths.
 - **CovidVaccinations**: Contains data on COVID-19 vaccinations.
 
