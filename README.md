@@ -10,7 +10,7 @@ The dataset was divided into two main parts for easy analysis:
 - **CovidDeaths**: Contains data on global COVID-19 cases and total deaths.
 - **CovidVaccinations**: Contains data on COVID-19 vaccinations.
 
-The dataset includes various metrics such as the number of infected persons, total deaths, vaccinations, and more.
+The dataset includes various metrics such as the number of infected persons, total deaths, vaccinations,location, date,continents and many more.
 
 ## Objectives
 
