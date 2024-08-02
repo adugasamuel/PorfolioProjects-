@@ -60,5 +60,5 @@ SQL views were created to assist in data visualization. These views can be impor
 
 ## Conclusion
 
-This project demonstrates the use of SQL for analyzing a large COVID-19 dataset. The insights obtained provide valuable information on the trends and impacts of the pandemic from 2020 to 2024. The created views enable further exploration and effective visualization of the data.
+This project demonstrates the use of SQL for analyzing a large COVID-19 dataset. The insights obtained provide valuable information on the trends and impacts of the pandemic from March 2020 to July 2024. The created views enable further exploration and effective visualization of the data.
 
